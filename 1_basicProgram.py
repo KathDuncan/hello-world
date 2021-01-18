@@ -25,5 +25,5 @@ def program_1():
     print(f)
     print("is a floating point number")
     
-if__name__=='main':
+if __name__=='main':
     program_1()
